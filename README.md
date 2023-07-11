@@ -12,3 +12,7 @@ This app has text fields with shake functionality if there is some invalid infor
 
 
 https://github.com/rajnibajaj12/BMICalculatorWithDarkLightMode/assets/138117447/659df0fb-3836-4eac-8964-343785dfe98c
+
+
+
+https://github.com/rajnibajaj12/BMICalculatorWithDarkLightMode/assets/138117447/56959eab-e201-4234-9cfb-91a92efe726a
